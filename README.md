@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Vidhi Sharma
-  <img src="https://media.giphy.com/media/26AOSz34ZnWPKf5cI/giphy.gif" alt="wave" width="50" />
+  
 </h1>
 <h3 align="center">
   Data Enthusiast | Aspiring Data Scientist | Tech Innovator
@@ -12,9 +12,8 @@
   </a>
 </p>
 
-<!-- Coffee Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/5xtDarqWuFhPOXh8BYU/giphy.gif" alt="coffee animation" width="120" />
+  <img src="https://media.giphy.com/media/3o7aD3fyslVa7ltTo4/giphy.gif" alt="coding animation" width="120" />
 </p>
 
 ---
