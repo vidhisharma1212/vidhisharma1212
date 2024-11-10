@@ -12,6 +12,11 @@
   </a>
 </p>
 
+<!-- Coffee Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/5xtDarqWuFhPOXh8BYU/giphy.gif" alt="coffee animation" width="120" />
+</p>
+
 ---
 
 <p align="left">
@@ -37,8 +42,6 @@
   <a href="https://www.linkedin.com/in/vidhi-sharma-4b182927a" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  
-  
 </p>
 
 ---
@@ -54,8 +57,6 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
   </a>
-  
-  
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" />
   </a>
@@ -73,6 +74,7 @@
   </a>
 </p>
 
+---
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
