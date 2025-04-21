@@ -24,9 +24,7 @@
   📫 You can reach me at: <strong><a href="mailto:vidhisharma9927@gmail.com">vidhisharma9927@gmail.com</a></strong>
 </p>
 
-<p align="left">
-  📄 View my experiences: <a href="[https://drive.google.com/file/d/1rXNIyINg5a1ODBxCe3QI8dfoWikE9E2A/view?usp=sharing](https://drive.google.com/file/d/1T62vBBG3PDMhbNTdWOPtmIIrn93Ih5eC/view?usp=sharing)" target="_blank">Resume</a>
-</p>
+
 
 <p align="left">
   ⚡ Fun fact: <strong>🎤 Public speaking enthusiast</strong> who loves presenting new ideas and making meaningful connections!
