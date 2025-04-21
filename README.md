@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  📄 View my experiences: <a href="https://drive.google.com/file/d/1rXNIyINg5a1ODBxCe3QI8dfoWikE9E2A/view?usp=sharing" target="_blank">Resume</a>
+  📄 View my experiences: <a href="[https://drive.google.com/file/d/1rXNIyINg5a1ODBxCe3QI8dfoWikE9E2A/view?usp=sharing](https://drive.google.com/file/d/1T62vBBG3PDMhbNTdWOPtmIIrn93Ih5eC/view?usp=sharing)" target="_blank">Resume</a>
 </p>
 
 <p align="left">
